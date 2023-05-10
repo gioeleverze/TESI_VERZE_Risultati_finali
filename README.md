@@ -109,10 +109,10 @@ run Exathlon_validation_box_plot.ipynb
 ``` 
 ## RESULT
 The folder contains, for both datasets:
-GENERATE_RESULT.ipynb : to evaluate the score end generating the results by using the threshold
-Distribution.ipynb : to generate the anomaly score distribution and the plots
-VAL and SCORE : which contains the anomaly score of validation and testing
-GRAFICI : which contains the ROC Curve graph and the anomaly score distribution plots
+- GENERATE_RESULT.ipynb : to evaluate the score end generating the results by using the threshold
+- Distribution.ipynb : to generate the anomaly score distribution and the plots
+- VAL and SCORE : which contains the anomaly score of validation and testing
+- GRAFICI : which contains the ROC Curve graph and the anomaly score distribution plots
 
 
 ## SCORE
